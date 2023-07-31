@@ -5,4 +5,10 @@ Gra w życie jest przykładem automatu komórkowego. Odbywa się ona na kwadrato
 * Komórka przeżywa, gdy ma dwóch lub trzech żywych sąsiadów.
 * Komórka umiera, gdy ma mniej sąsiadów niż dwoje — z samotności, lub gdy ma ich więcej niż czworo — z przeludnienia.
 * Komórka ożywa w przypadku, gdy ma dokładnie trzech żywych sąsiadów.
-
+## Technologie
+* Python 3.8.5
+## Biblioteki
+* Tkinter
+* Random
+## Uruchomienie
+W celu uruchomienia aplikacji należy pobrać plik main.py oraz poddać go kompilacji.
