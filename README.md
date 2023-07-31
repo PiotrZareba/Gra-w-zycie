@@ -1,2 +1,3 @@
 # Gra-w-zycie
-Jest to projekt wykonany podczas studiów na przedmiot Symulacje komputerowe
+Jest to projekt wykonany podczas przebiegu studiów na przedmiot Symulacje komputerowe
+#Opis
